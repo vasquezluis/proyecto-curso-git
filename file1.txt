@@ -1,1 +1,2 @@
-Hola mundo!
+Hola mundo! este es el curso de git.
+Esta es otra linea :)
